@@ -63,16 +63,29 @@ Two global security groups — `Finance-ReadOnly` and `IT-Admins` — with users
 
 ## Screenshots
 
-| File | Shows |
-|---|---|
-| `01-server-manager-roles.png` | Server Manager with AD DS and DNS roles active |
-| `02-ou-structure.png` | `lab.local` expanded with Finance, IT and Sales OUs |
-| `03-finance-ou.png` | Finance OU — two users and the Finance-ReadOnly group |
-| `04-it-ou.png` | IT OU — James Smith and IT-Admins group |
-| `05-sales-ou.png` | Sales OU — Ana Garcia and Tam Nguyen |
-| `06-password-reset.png` | Reset Password dialog with lockout status displayed |
-| `07-unlock-account.png` | Account properties showing unlock control and account options |
-| `08-account-disabled.png` | Confirmation that a user account was disabled |
+**Server Manager — AD DS and DNS roles active**
+![Server Manager](01-server-manager-roles.png)
+
+**OU structure in lab.local**
+![OU structure](02-ou-structure.png)
+
+**Finance OU — users and security group**
+![Finance OU](03-finance-ou.png)
+
+**IT OU**
+![IT OU](04-it-ou.png)
+
+**Sales OU**
+![Sales OU](05-sales-ou.png)
+
+**Password reset with lockout status**
+![Password reset](06-password-reset.png)
+
+**Account unlock control**
+![Unlock account](07-unlock-account.png)
+
+**Account disabled — employee departure**
+![Account disabled](08-account-disabled.png)
 
 ---
 
